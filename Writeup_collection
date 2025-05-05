@@ -31,3 +31,4 @@ How we hijacked 26 subdomains: https://medium.com/@aishwaryakendle/how-we-hijack
 The evt parameter xss : https://thespanner.co.uk/the-curious-case-of-the-evt-parameter
 UUID bug bounty: https://medium.com/pentesternepal/tackling-idor-on-uuid-based-objects-71e8cb2dc265
 UUID unprecdictable still idor : https://josephthacker.com/hacking/cybersecurity/2022/08/18/unpredictable-idors.html
+Finding and Testing MisConfigured S3 Buckets. : https://rohanchavan.medium.com/finding-and-testing-misconfigured-s3-buckets-d77992c4b5cd
